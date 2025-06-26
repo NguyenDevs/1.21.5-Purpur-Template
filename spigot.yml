@@ -163,6 +163,8 @@ world-settings:
       tick-inactive-villagers: true
       ignore-spectators: false
     verbose: false
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 commands:
   replace-commands:
